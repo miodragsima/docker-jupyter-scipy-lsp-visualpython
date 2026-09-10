@@ -1,4 +1,4 @@
-# jupyter-scipy-visualpython-lsp
+# 🐳 jupyter-scipy-visualpython-lsp
 
 Scientific JupyterHub notebook image for Kubernetes and Olares OS. Based on beclab/jupyter-scipy-notebook with NumPy, Pandas, SciPy, Matplotlib and Scikit‑learn. Extended with Visual Python JupyterLab widget and Python LSP server for IDE‑like development.
 
@@ -26,7 +26,7 @@ intelligent autocompletion inline diagnostics code navigation and introspection
 
 # Docker Image
 
-You can find the Docker image on [Docker Hub](https://hub.docker.com/r/miodragsima/jupyter-scipy-lsp-visualpython).
+You can find the Docker image on [🐳 Docker Hub](https://hub.docker.com/r/miodragsima/jupyter-scipy-lsp-visualpython).
 
 # Benefits for JupyterHub on Kubernetes
 
